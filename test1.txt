@@ -4,3 +4,4 @@ line33
 line 4
 test commit
 new char
+test checkout
