@@ -1,1 +1,5 @@
-add line 1
+<<<<<<< HEAD
+add line one
+=======
+add line one
+>>>>>>> newbranch
