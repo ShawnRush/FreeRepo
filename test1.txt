@@ -5,3 +5,4 @@ line 4
 test commit
 new char
 test checkout
+multi test
