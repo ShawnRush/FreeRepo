@@ -1,0 +1,3 @@
+[submodule "submodule-ble-py"]
+	path = submodule-ble-py
+	url = https://github.com/ShawnRush/BLE_PI3
