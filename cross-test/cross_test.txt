@@ -1,2 +1,3 @@
 this file is created in dev branch.
-test flag:1
+test flag:2
+add a new line in the dev2 branch.change flag as 2
