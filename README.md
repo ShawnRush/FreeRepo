@@ -2,14 +2,14 @@
 for the git test
 add a new line for README.md
 
-
+Python Based Server:
 APP Name :
-	Shawn-TestCodeReviewBot
+	Py-CodeReview-Test
 
 Home page URL:
-	https://github.com/github/github-app-js-sample#readme
+	[https://github.com/github/github-app-js-sample#readme](https://github.com/ShawnRush/FreeRepo/blob/master)
 Secret:
 	codereviewtest
 	
 Webhook URL: 
-(proxy/Smee : https://smee.io/taK5qvDrfXkqzmN4) ![image](https://github.com/ShawnRush/FreeRepo/assets/51254894/aaa7293b-ae09-4a55-9d7f-70384f4186e6)
+https://smee.io/TSQDgrxh929xicU
