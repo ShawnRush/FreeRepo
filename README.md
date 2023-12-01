@@ -1,7 +1,6 @@
 # FreeRepo
-for the git test
-add a new line for README.md
 
+This is a repo for git test.
 
 APP Name :
 	Shawn-TestCodeReviewBot
