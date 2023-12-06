@@ -1,8 +1,7 @@
 # FreeRepo
-for the git test
-add a new line for README.md
 
 Python Based Server:
+
 APP Name :
 	Py-CodeReview-Test
 
